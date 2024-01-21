@@ -1,6 +1,6 @@
 ### Bonjour 👋 I'm Herold
 
-As a young web programmer I aspire to learn more about tech.
+As a young web programmer, I aspire to learn more about tech.
 
 ___
 
