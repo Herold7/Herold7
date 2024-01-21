@@ -3,14 +3,17 @@
 As a young web programmer I aspire to learn more about tech.
 
 🧰 Tech stack
+
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,sass,react,symfony,mysql,postgres)](https://skillicons.dev)
 
 
 🛠️ Tools
+
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,)](https://skillicons.dev)
 
 
 🖍️ Design
+
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 
