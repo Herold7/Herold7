@@ -17,12 +17,12 @@ As a young web programmer I aspire to learn more about tech.
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 
+📊 My stats
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=herold7&show_icons=true&theme=synthwave)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=herold7&show_icons=true&theme=dark)
 
           
 
-          
 
 <!--
 **Herold7/Herold7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
