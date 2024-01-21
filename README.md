@@ -19,7 +19,7 @@ As a young web programmer I aspire to learn more about tech.
 
 📊 My stats
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=herold7&show_icons=true&theme=dark)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=herold7&show_icons=true&theme=radical)
 
           
 
