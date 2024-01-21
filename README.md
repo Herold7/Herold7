@@ -8,7 +8,7 @@ ___
 🧰 **Tech stack**
 
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,sass,react,symfony,mysql,postgres)](https://skillicons.dev)
+[![My Tech stack](https://skillicons.dev/icons?i=bootstrap,sass,react,symfony,mysql,postgres)](https://skillicons.dev)
 
 
 
@@ -16,7 +16,7 @@ ___
 🛠️ **Tools**
 
 
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,vscode,)](https://skillicons.dev)
 
 
 
@@ -24,7 +24,7 @@ ___
 🖍️ **Design**
 
 
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![My Tolls design](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 
 ___
@@ -32,7 +32,7 @@ ___
 
 📊 **My stats**
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=herold7&show_icons=true&theme=radical)
+![Les Stats GitHub de Herold](https://github-readme-stats.vercel.app/api?username=herold7&show_icons=true&theme=radical)
 
           
 
