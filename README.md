@@ -2,6 +2,8 @@
 
 As a young web programmer I aspire to learn more about tech.
 
+___
+
 
 🧰 **Tech stack**
 
@@ -25,7 +27,7 @@ As a young web programmer I aspire to learn more about tech.
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 
-
+___
 
 
 📊 **My stats**
