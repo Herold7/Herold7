@@ -8,7 +8,7 @@ ___
 🧰 **Tech stack**
 
 
-[![My Tech stack](https://skillicons.dev/icons?i=bootstrap,sass,react,symfony,mysql,postgres)](https://skillicons.dev)
+[![My Tech stack](https://skillicons.dev/icons?i=bootstrap,nodejs,react,express,mongodb,symfony,mysql,)](https://skillicons.dev)
 
 
 
@@ -16,7 +16,7 @@ ___
 🛠️ **Tools**
 
 
-[![My Tools](https://skillicons.dev/icons?i=git,vscode,)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,vscode,wordpress)](https://skillicons.dev)
 
 
 
