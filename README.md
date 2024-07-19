@@ -8,7 +8,7 @@ ___
 🧰 **Tech stack**
 
 
-[![My Tech stack](https://skillicons.dev/icons?i=bootstrap,nodejs,react,express,mongodb,symfony,mysql,)](https://skillicons.dev)
+[![My Tech stack](https://skillicons.dev/icons?i=bootstrap,nodejs,react,express,mongodb,symfony,mysql,sqlite)](https://skillicons.dev)
 
 
 
